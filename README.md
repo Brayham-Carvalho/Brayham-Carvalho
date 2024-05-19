@@ -43,5 +43,12 @@
 
 ## My Badges
 
-[![Badge1](https://images.credly.com/size/340x340/images/27676114-4a8d-4521-90a4-30ad9af16a9e/Introducing-Cisco-Data-Center-Networking-Virtual-Event-2021.png)](https://www.credly.com/badges/27676114-4a8d-4521-90a4-30ad9af16a9e)
-[![Badge2](https://images.credly.com/size/340x340/images/7f3fd3cb-6ae1-466c-b8aa-981a1a59f7f47d/Understanding-Cisco-Cybersecurity-Operations-Fundamentals-Badge.png)](https://www.credly.com/badges/7f3fd3cb-6ae1-466c-b8aa-981a1a59f7f47d)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4daee7de-a2d8-4d7e-95ee-42f213e18921" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cadb704a-618c-4d65-80b5-7d9b76daeb3e" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="63ffbd8a-90d5-407f-af9d-035a7cb745d6" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
