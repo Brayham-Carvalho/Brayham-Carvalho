@@ -12,6 +12,7 @@
 <div style="display: inline_block; background-color:DodgerBlue;">
   <img align="center" alt="Brayham_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Brayham_CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Brayham_GIT" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />
   <img align="center" alt="Brayham_JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Brayham_React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Brayham_Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -42,12 +43,5 @@
 
 ## My Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4daee7de-a2d8-4d7e-95ee-42f213e18921" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cadb704a-618c-4d65-80b5-7d9b76daeb3e" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="63ffbd8a-90d5-407f-af9d-035a7cb745d6" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
