@@ -39,7 +39,7 @@
 
 <div style="display: inline_block" align="right">
   <a href="https://api.whatsapp.com/send?phone=5527998175043"><img src="https://img.shields.io/badge/%20-whatsapp-brightgreen?colorA=199447&colorB=25D366&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/brayham-carvalho-346238256/"><img src="https://img.shields.io/badge/%20-linkedin-brightgreen?colorA=074685&colorB=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brayham-carvalho/"><img src="https://img.shields.io/badge/%20-linkedin-brightgreen?colorA=074685&colorB=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ## My Badges
