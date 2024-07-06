@@ -6,7 +6,7 @@
   <li>&#127758; Communicative in English</li>
 </ul>
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayham-Carvalho&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contributions" />
 ## My Skills
 
 <div style="display: inline_block; background-color:DodgerBlue;">
