@@ -8,6 +8,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayham-Carvalho&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contributions" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayham-Carvalho&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&layout=compact&show_icons=true" />
+
 ## My Skills
 
 <div style="display: inline_block; background-color:DodgerBlue;">
