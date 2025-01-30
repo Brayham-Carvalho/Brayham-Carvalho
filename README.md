@@ -1,4 +1,5 @@
-<h2>&#128075;&#127996; Hi, I’m Brayham Procopio de Carvalho</h2>
+<h2>👋🏼 Hi, I'm Brayham Procopio de Carvalho</h2>
+
 #Backend Developer
 
 🚀 Professional with 12 years of operational experience in the sanitation sector, currently focused on software development. I combine hands-on industry expertise with emerging skills in backend development.
@@ -16,6 +17,7 @@
 **Frontend:** React | Next.js | JavaScript | HTML5 | CSS3  
 **Databases:** PostgreSQL | MySQL | MongoDB  
 **ORM:** Prisma | TypeORM  
+**Security:** Cybersecurity | Network Security
 
 **Development Tools:**  
 - **API Testing:** Postman  
@@ -31,7 +33,16 @@
 - Dedication to continuous learning and constant improvement.
 
 ## 📚 Academic Background:
-Pursuing a **Technology in Internet Systems** degree at IFES, expected to graduate in 2025.
+- Pursuing a **Technology in Internet Systems** degree at IFES, expected to graduate in 2025
+
+## 📜 Certifications:
+- Cybersecurity
+- CCNAv7: Introduction to Networks
+- Network Security
+
+## 🎓 Technical Events:
+- Technical Talk: SOC - Understanding its Structure and Operation
+- Technical Talk: Strengthening Intrusion Detection Systems with Machine Learning
 
 ## 🌐 Languages:
 Intermediate English.
@@ -70,9 +81,6 @@ I aim to contribute to software development projects by applying my growing tech
   <img align="center" alt="Brayham_TypeORM" height="30" width="40" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" />
   <img align="center" alt="Brayham_Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
   <img align="center" alt="Brayham_Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  
-  
-  
 </div>
 
 <br>
