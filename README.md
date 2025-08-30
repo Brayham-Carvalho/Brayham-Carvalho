@@ -35,7 +35,7 @@
 - Dedication to continuous learning and constant improvement.
 
 ## 📚 Academic Background:
-- Pursuing a **Technology in Internet Systems** degree at IFES, expected to graduate in 2025
+- Bachelor’s Degree in **Internet Systems Technology**, Federal Institute of Espírito Santo (IFES)
 
 ## 📜 Certifications:
 - Cybersecurity
