@@ -54,9 +54,19 @@ I aim to contribute to software development projects by applying my growing tech
 
  Explore my repositories and projects to learn more about my work!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayham-Carvalho&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contributions" />
+<div align="center">
+  
+### 📊 GitHub Stats
+  
+<img height="180em" src="https://streak-stats.demolab.com/?user=Brayham-Carvalho&theme=dark&hide_border=true&background=0D1117&ring=66fc03&fire=66fc03&currStreakLabel=66fc03"/>
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brayham-Carvalho&theme=github_dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayham-Carvalho&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&layout=compact&show_icons=true" />
+### 💻 Most Used Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brayham-Carvalho&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brayham-Carvalho&theme=github_dark"/>
+
+</div>
 
 ## My Skills
 
