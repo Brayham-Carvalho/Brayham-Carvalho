@@ -1,17 +1,17 @@
-# 👋🏼 Hi, I'm Brayham Procopio de Carvalho
+# Hi, I'm Brayham Procopio de Carvalho
 
 # Fullstack Developer
 
-🚀 Professional with 12 years of operational experience in the sanitation sector, currently focused on software development. I combine hands-on industry expertise with emerging skills in backend development.
+ Professional with 12 years of operational experience in the sanitation sector, currently focused on software development. I combine hands-on industry expertise with emerging skills in backend development.
 
-## 💡 Experience and Skills:
+## Experience and Skills:
 - Operational experience in the sanitation sector, specializing in data processing and task automation;
 - Development of practical solutions to optimize operational workflows;
 - Creation and analysis of technical reports based on industry data;
 - Knowledge of agile methodologies like Scrum and Kanban, applied to iterative development;
 - Application of Object-Oriented Programming (OOP) principles in software projects.
 
-## 🛠️ Technical Skills:
+## Technical Skills:
 **Paradigms:** Object-Oriented Programming (OOP)  
 **Backend:** Node.js | TypeScript | JavaScript | NestJS | PHP | Kotlin  
 **Frontend:** React | Next.js | JavaScript | HTML5 | CSS3  
@@ -27,32 +27,32 @@
 - **UI/UX:** TailwindCSS | Bootstrap | Figma  
 - **Methodologies:** Scrum | Kanban | Agile Development  
 
-## 👥 Behavioral Skills:
+## Behavioral Skills:
 - Clear communication and ability to document and present technical ideas;
 - Commitment to deadlines and results, with a strong work ethic;
 - Effective collaboration in multidisciplinary teams;
 - Problem-solving mindset and ability to tackle challenges;
 - Dedication to continuous learning and constant improvement.
 
-## 📚 Academic Background:
+## Academic Background:
 - Bachelor’s Degree in **Internet Systems Technology**, Federal Institute of Espírito Santo (IFES)
 
-## 📜 Certifications:
+## Certifications:
 - Cybersecurity
 - CCNAv7: Introduction to Networks
 - Network Security
 
-## 🎓 Technical Events:
+## Technical Events:
 - Technical Talk: SOC - Understanding its Structure and Operation
 - Technical Talk: Strengthening Intrusion Detection Systems with Machine Learning
 
-## 🌐 Languages:
+## Languages:
 Intermediate English.
 
-## 🌟 Objective:
+## Objective:
 I aim to contribute to software development projects by applying my growing technical skills, hands-on operational experience, and strong interpersonal competencies.
 
-💻 Explore my repositories and projects to learn more about my work!
+ Explore my repositories and projects to learn more about my work!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayham-Carvalho&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contributions" />
 
