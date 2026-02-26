@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Software+Engineer;Distributed+Systems+Architect;Building+Scalable+Ecosystems;99.9%25+Uptime+Mindset" alt="Typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=153A6B&center=true&vCenter=true&width=800&lines=Software+Engineer;Distributed+Systems+Architect;Building+Scalable+Ecosystems;99.9%25+Uptime+Mindset" alt="Typing effect" />
 </div>
 
 <div align="center">
@@ -43,24 +43,28 @@
 </tr>
 </table>
 
+
 ##  The Engineering Stack Matrix
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%"><b>Backend & Runtimes</b></td>
-<td align="center" width="25%"><b>Architecture & Scale</b></td>
-<td align="center" width="25%"><b>Data & Cloud</b></td>
-<td align="center" width="25%"><b>Frontend & UI</b></td>
-</tr>
-<tr>
-<td align="center">Node.js<br>TypeScript<br>NestJS<br>Kotlin<br>PHP</td>
-<td align="center">Microservices<br>DDD<br>SOLID Principles<br>Clean Architecture<br>Event-Driven</td>
-<td align="center">AWS<br>PostgreSQL<br>MongoDB<br>Prisma & TypeORM<br>Docker</td>
-<td align="center">React<br>Next.js<br>TailwindCSS<br>HTML5/CSS3<br>Figma</td>
-</tr>
-</table>
-</div>
+```yaml
+backend_and_runtimes:
+  - Node.js & TypeScript
+  - NestJS & GraphQL
+  - Kotlin & PHP
+frontend_and_ui:
+  - React, Next.js & Astro
+  - JavaScript, HTML5 & CSS3
+  - TailwindCSS & Bootstrap
+data_and_cloud:
+  - AWS Ecosystem & Docker
+  - PostgreSQL, MySQL & MongoDB
+  - Prisma ORM, TypeORM
+architecture_and_tools:
+  - Microservices & DDD
+  - Clean Architecture & SOLID
+  - Git (VCS) & Jest (Testing)
+
+```
 
 <div align="center">
   <img alt="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
